@@ -132,7 +132,8 @@ p.note { display: none; }
 <a href="20250130_001.jpg" target="_blank"><img src="20250130_001.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20250130_002.jpg" target="_blank"><img src="20250130_002.jpg" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">遺品のPCに無線のソフト入れて無線機と接続し電波を出さないアマチュア無線機に<br>右のPCはメタバースやLINE専用端末です</span></h2>
+<h2><span class="yellow">熱帯エリアの屋外テーブルでPC2台動かして<br>見えてるだけで5つのソフト作動させながらまったりしてます<br>
+左の無線機はPC通してネットで日本に繋いで交信できるアマチュア無線機</span></h2>
 <a href="20250130_003.jpg" target="_blank"><img src="20250130_003.jpg" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">アヒル一家がヒナを置き去りにし始めたので一時保護</span></h2>
