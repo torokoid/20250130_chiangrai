@@ -180,11 +180,11 @@ p.note { display: none; }
 <a href="20250130_021.jpg" target="_blank"><img src="20250130_021.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20250130_022.jpg" target="_blank"><img src="20250130_022.jpg" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">最後は星空ですが、1枚目は先週23日(木)の冬のダイヤモンド</span></h2>
-<a href="20250130_023.jpg" target="_blank"><img src="20250130_023.jpg" alt="サンプル画像" width="900" /></a>
-    
-<h2><span class="yellow">こちらが１週間後の30日(木)の同じ空、恒星の位置は同じですが、火星と木星の位置が少し動きました</span></h2>
+<h2><span class="yellow">最後は星空ですが、30日(木)の冬のダイヤモンド(たどり方は次の画像で)</span></h2>
 <a href="20250130_024.jpg" target="_blank"><img src="20250130_024.jpg" alt="サンプル画像" width="900" /></a>
+    
+<h2><span class="yellow">こちらが１週間前の23日(木)の同じ空、恒星の位置は同じですが、火星と木星の位置が少し動きました</span></h2>
+<a href="20250130_023.jpg" target="_blank"><img src="20250130_023.jpg" alt="サンプル画像" width="900" /></a>
 
 
 
