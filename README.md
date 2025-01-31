@@ -157,7 +157,7 @@ p.note { display: none; }
 <h2><span class="yellow">熱帯の陽射しを浴びてオレンジ色が映えます</span></h2>
 <a href="20250130_010.jpg" target="_blank"><img src="20250130_010.jpg" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">大学入り口の花壇はちょうど植え替え中でした</span></h2>
+<h2><span class="yellow">大学入り口の花壇は、お花の入れ替わり中でした</span></h2>
 <a href="20250130_011.jpg" target="_blank"><img src="20250130_011.jpg" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">大きなスーパーでは、若者や家族連れが目立ちます</span></h2>
